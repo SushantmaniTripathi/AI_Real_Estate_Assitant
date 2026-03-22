@@ -644,10 +644,8 @@ This project is licensed under the Apache 2.0 License — see the [LICENSE](LICE
 
 ## 👤 Author
 
-**Alex Nesterovich**
-- GitHub: [@AleksNeStu](https://github.com/AleksNeStu)
-- Repository: [ai-real-estate-assistant](https://github.com/AleksNeStu/ai-real-estate-assistant)
-
+**Sushantmani Tripathi**
+- GitHub: [](https://github.com/SushantmaniTripathi//)
 ---
 
 ## 🙏 Acknowledgments
@@ -662,11 +660,7 @@ This project is licensed under the Apache 2.0 License — see the [LICENSE](LICE
 ## 📞 Support
 
 For questions or issues:
-- Create an [Issue](https://github.com/AleksNeStu/ai-real-estate-assistant/issues)
-- Check existing [Discussions](https://github.com/AleksNeStu/ai-real-estate-assistant/discussions)
-- Review the [PRD](docs/PRD.MD) for detailed specifications
-
----
+contact sushantmanitripathiji@gmail.com
 
 <div align="center">
 
@@ -674,19 +668,12 @@ For questions or issues:
 
 Made with ❤️ using Python, LangChain, and Streamlit
 
-Copyright © 2025 [Alex Nesterovich](https://github.com/AleksNeStu)
-
 </div>
 ---
 
 ## 📦 Downloads
 
 You can download source archives directly from GitHub for the latest development branch (V3) and the stable legacy branch (V2).
-
-| Version | Branch | Download | SHA256 | Notes |
-|--------:|:------:|:---------|:------:|:------|
-| V3 (Dev) | main | https://github.com/AleksNeStu/ai-real-estate-assistant/archive/refs/heads/main.zip | compute locally | Active development; breaking changes possible |
-| V2 (Stable) | ver2 | https://github.com/AleksNeStu/ai-real-estate-assistant/archive/refs/heads/ver2.zip | compute locally | Stable legacy version without ongoing improvements |
 
 Verify integrity:
 - Windows PowerShell: `Get-FileHash .\ai-real-estate-assistant-main.zip -Algorithm SHA256`
