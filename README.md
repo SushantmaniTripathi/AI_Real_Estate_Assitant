@@ -76,7 +76,7 @@ Choose your preferred installation method:
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/AleksNeStu/ai-real-estate-assistant.git
+git clone https://github.com/SushantTripathi/ai-real-estate-assistant.git
 cd ai-real-estate-assistant
 
 # 2. Set up environment
@@ -90,9 +90,6 @@ docker-compose up -d
 # Visit: http://localhost:8501
 ```
 
-📚 **[Full Docker Guide →](docs/DOCKER.md)**
-
----
 
 ### 💻 Option 2: Local Installation
 
