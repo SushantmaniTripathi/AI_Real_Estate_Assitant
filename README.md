@@ -104,7 +104,7 @@ docker-compose up -d
 **PowerShell (Recommended)**:
 ```powershell
 # Clone repository
-git clone https://github.com/AleksNeStu/ai-real-estate-assistant.git
+git clone https://github.com/SushantmaniTripathi/ai-real-estate-assistant.git
 cd ai-real-estate-assistant
 
 # Create virtual environment (Python 3.12 recommended)
@@ -140,7 +140,7 @@ streamlit run app_modern.py
 
 ```bash
 # Clone repository
-git clone https://github.com/AleksNeStu/ai-real-estate-assistant.git
+git clone https://github.com/SushantmaniTripathi/ai-real-estate-assistant.git
 cd ai-real-estate-assistant
 
 # Ensure Python 3.12 is installed (Homebrew)
@@ -149,33 +149,6 @@ echo 'export PATH="/opt/homebrew/opt/python@3.12/bin:$PATH"' >> ~/.zprofile
 source ~/.zprofile
 
 # Create virtual environment with Python 3.12
-python3.12 -m venv venv
-source venv/bin/activate
-
-# Install dependencies
-python -m pip install --upgrade pip wheel
-python -m pip install -r requirements.txt
-
-# Run the app
-streamlit run app_modern.py
-```
-
- 
-
-#### Linux (Ubuntu/Debian)
-
-```bash
-# Update system
-sudo apt update && sudo apt upgrade -y
-
-# Install Python 3.12 and essentials
-sudo apt install python3.12 python3.12-venv python3-pip git -y
-
-# Clone repository
-git clone https://github.com/AleksNeStu/ai-real-estate-assistant.git
-cd ai-real-estate-assistant
-
-# Create virtual environment
 python3.12 -m venv venv
 source venv/bin/activate
 
